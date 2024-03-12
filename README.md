@@ -57,3 +57,15 @@
 - 프랑스의 사회학자 Raymond Boudon이 말년에 쓴 책이 (극우적 논조로 좀 더 알려진) 기파랑 출판사에서 나왔다. 번역과 편집상의 아쉬움은 접어두고, 책의 내용 자체도 자유주의에 대한 변론이라기엔 (지나치게 단순화된) 맑스주의와 사회운동에 대한 도덕적 공황(moral panic)이 지나치다. Boudon이 그토록 비난하는 Bourdieu나 Foucault를 여전히 읽는 이유는 그들의 정치적 스탠스를 옹호해서라기 보다는 이론적으로 배울 점이 있기 때문인데, 이 책에서 배울 점은 대체 무엇인가?
 
 
+<br/>
+
+## 2023
+
+[링크](https://github.com/hxk271/BooksCommented/blob/main/2023.md)
+
+
+<br/>
+
+## 2022
+
+[링크](https://github.com/hxk271/BooksCommented/blob/main/2022.md)
