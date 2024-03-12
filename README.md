@@ -59,6 +59,6 @@
 
 <br/>
 
-## 2023년 이전
+## 책 코멘트 아카이브
 
-[2023년 링크](https://github.com/hxk271/BooksCommented/blob/main/2023.md), [2022년 링크](https://github.com/hxk271/BooksCommented/blob/main/2022.md)
+[2023년](https://github.com/hxk271/BooksCommented/blob/main/2023.md), [2022년](https://github.com/hxk271/BooksCommented/blob/main/2022.md)
